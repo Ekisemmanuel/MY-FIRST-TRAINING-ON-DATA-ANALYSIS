@@ -33,6 +33,7 @@ Exploratory Data Analysis involve exploring of the Data to answer some question 
     ```
 
     ## Result/Findings
+    ![](hi.jpg)
     This is where you put the insight gotten from the analysis
     1. The company's sales have been progressively rising from the prriod of a specific time
     2. it has a setback at another point due to a particular trend that was observed along the line of the analysis
@@ -40,7 +41,7 @@ Exploratory Data Analysis involve exploring of the Data to answer some question 
     4. And other observation from your analysis
 
 
-![](
+![](hi.jpg)
 
 
 
