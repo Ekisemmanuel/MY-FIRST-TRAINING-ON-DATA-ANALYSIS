@@ -23,6 +23,8 @@ Exploratory Data Analysis involve exploring of the Data to answer some question 
 
    ![](hjkk.jpg}
 
+   
+
     ## Data Analysis
     This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis
 
@@ -44,7 +46,7 @@ Exploratory Data Analysis involve exploring of the Data to answer some question 
     4. And other observation from your analysis
 
 
-![](hi.jpg)
+   ![](hi.jpg)
 
 
 
